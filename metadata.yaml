@@ -1,0 +1,41 @@
+_repo: Emberek-utja-b-Egy-csavargo-jegyzeteibol_72458
+_version: 0.0.1
+alternative_title: Menschenwege. Hungarian
+contributor:
+  translator:
+    agent_name: Sajó, Aladár
+    alias: Sajo, Aladar
+    birthdate: 1869
+    deathdate: 1943
+    gutenberg_agent_id: '56690'
+    url: http://www.gutenberg.org/2009/agents/56690
+    wikipedia: https://hu.wikipedia.org/wiki/Saj%C3%B3_Alad%C3%A1r
+creator:
+  author:
+    agent_name: Bonsels, Waldemar
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '9680'
+    url: http://www.gutenberg.org/2009/agents/9680
+    wikipedia: https://de.wikipedia.org/wiki/Waldemar_Bonsels
+description: ''
+gutenberg_issued: '2023-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72458'
+language: hu
+pgterms:marc905: 20231219010642bonsels
+pgterms:marc906: '1927'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bFranklin-Társulat, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German literature -- Translations into Hungarian'
+- !lcc 'PT'
+- GITenberg
+title: 'Emberek útja : $b Egy csavargó jegyzeteiből'
+url: http://www.gutenberg.org/ebooks/72458
